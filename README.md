@@ -5,6 +5,14 @@
 This plugin extends the filter you can use in the Kanboard search.
 
 
+Usage
+-----
+
+Following (additional) filters are available at the moment:
+
+- **project_description**: With this you can search for tasks, which are in the project, which have such a string in their description. E.g. `project_description:"private"` and it would list tasks, which are in the project with the description _"This project is a private project."_.
+
+
 Compatibility
 -------------
 
